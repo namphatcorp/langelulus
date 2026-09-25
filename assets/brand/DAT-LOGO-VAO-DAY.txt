@@ -1,0 +1,15 @@
+ĐẶT FILE LOGO VÀO THƯ MỤC NÀY
+==============================
+
+Tên file cần đặt (ưu tiên theo thứ tự):
+
+  logo.svg      ← tốt nhất, nét sắc mọi kích thước
+  logo.png      ← PNG NỀN TRONG SUỐT (không phải nền trắng/đen)
+
+Nếu có thêm các phiên bản sau thì càng tốt (không bắt buộc):
+
+  logo-mark.png     chỉ phần monogram LA có nét lượn
+  logo-word.png     chỉ phần chữ L'ANGELULUS
+  logo-white.png    phiên bản chữ trắng/kem dùng trên nền tối
+
+Sau khi đặt file xong, báo lại để cập nhật vào website.

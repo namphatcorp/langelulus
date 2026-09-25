@@ -1,0 +1,24 @@
+# Cấu hình Netlify — website tĩnh, không cần build
+[build]
+  publish = "."
+  command = ""
+
+# Header bảo mật cơ bản
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Ảnh cache dài hạn cho nhẹ băng thông
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# HTML luôn lấy bản mới nhất sau mỗi lần cập nhật
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

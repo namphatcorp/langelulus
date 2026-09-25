@@ -1,0 +1,8 @@
+.DS_Store
+
+# Ảnh banner gốc chưa nén — chỉ dùng bản hero-*.jpg đã tối ưu
+assets/banners/Banner *.png
+assets/banners/hero-*.png
+assets/banners/promo-*.png
+assets/history/pdf/
+.claude/

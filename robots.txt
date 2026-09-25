@@ -1,0 +1,19 @@
+# L'ANGELULUS — cho phép công cụ tìm kiếm lập chỉ mục
+User-agent: *
+Allow: /
+
+# Không lập chỉ mục trang chức năng
+Disallow: /gio-hang
+Disallow: /thanh-toan
+Disallow: /dat-hang-thanh-cong
+Disallow: /tai-khoan
+Disallow: /dang-nhap
+Disallow: /quan-tri
+Disallow: /en/cart
+Disallow: /en/checkout
+Disallow: /en/order-success
+Disallow: /en/account
+Disallow: /en/login
+Disallow: /en/admin
+
+Sitemap: https://langelulus.com/sitemap.xml

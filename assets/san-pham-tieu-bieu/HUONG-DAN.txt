@@ -1,0 +1,24 @@
+DẢI ẢNH "CÁC SẢN PHẨM TIÊU BIỂU ĐÃ PHÁT TRIỂN"
+(hiển thị ở trang Về chúng tôi > Lịch sử hình thành, ngay dưới timeline)
+
+CÁCH THÊM ẢNH
+1. Chép ảnh vào chính thư mục này (assets/san-pham-tieu-bieu/)
+2. Đặt tên theo thứ tự:  sp-01.jpg  sp-02.jpg  sp-03.jpg  ...  tối đa sp-24.jpg
+   - Bắt buộc đuôi .jpg, viết thường
+   - Số phải đủ 2 chữ số: sp-01 (đúng) / sp-1 (sai)
+   - Không dấu tiếng Việt, không khoảng trắng trong tên file
+3. Ảnh hiện theo đúng thứ tự số, KHÔNG bỏ trống số ở giữa.
+4. Báo Claude để cập nhật số lượng ảnh (HIST_COUNT) và tạo bản nhỏ
+   s/sp-XX.webp (600px) — web dùng bản nhỏ này cho nhanh.
+
+KÍCH THƯỚC ẢNH
+- Ảnh VUÔNG, tỉ lệ 1:1, ví dụ 1200 x 1200 px
+- Dung lượng nên dưới 400 KB mỗi ảnh để trang tải nhanh
+- Ảnh không vuông sẽ bị cắt bớt cho vừa khung vuông
+
+CHÚ THÍCH DƯỚI ẢNH (không bắt buộc)
+Báo Claude tên từng ảnh, ví dụ: sp-01 = "Bột giặt Nam Phát (1998)".
+Không có chú thích thì thẻ chỉ hiện ảnh, không có chữ.
+
+LƯU Ý
+Thư mục assets/history/ là ảnh của timeline lịch sử — KHÔNG để ảnh vào đó.
