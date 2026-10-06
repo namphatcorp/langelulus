@@ -1170,4 +1170,40 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://langelulus.com/san-pham/NRC01</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://langelulus.com/san-pham/NRC01"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://langelulus.com/en/products/NRC01"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://langelulus.com/san-pham/NRC01"/>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://langelulus.com/en/products/NRC01</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://langelulus.com/san-pham/NRC01"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://langelulus.com/en/products/NRC01"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://langelulus.com/san-pham/NRC01"/>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://langelulus.com/san-pham/NLS01</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://langelulus.com/san-pham/NLS01"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://langelulus.com/en/products/NLS01"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://langelulus.com/san-pham/NLS01"/>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://langelulus.com/en/products/NLS01</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://langelulus.com/san-pham/NLS01"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://langelulus.com/en/products/NLS01"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://langelulus.com/san-pham/NLS01"/>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
