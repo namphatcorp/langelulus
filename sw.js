@@ -3,7 +3,7 @@
    · /assets/ (ảnh, logo): trả bản đã lưu ngay + tải lại ngầm để lần sau có bản mới.
    · Tên miền khác (Google Fonts, GA4, Apps Script đăng ký thành viên…): KHÔNG can thiệp.
    Đổi VERSION khi muốn xoá sạch bộ nhớ đệm cũ của khách. */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const PAGE_CACHE = 'la-page-' + VERSION;
 const ASSET_CACHE = 'la-asset-' + VERSION;
 const ASSET_MAX = 250;
